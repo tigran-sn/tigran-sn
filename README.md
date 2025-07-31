@@ -61,6 +61,3 @@ As a Front-end Developer with 6+ years of experience, I specialize in JavaScript
 - **LinkedIn:** [linkedin.com/in/tigransoghomonyan](https://www.linkedin.com/in/tigransoghomonyan/)  
 - **GitHub:** [github.com/tigran-sn](https://github.com/tigran-sn)  
 
----
-
-> _"I aim to craft clean, accessible, and scalable applications that make a real impact."_
