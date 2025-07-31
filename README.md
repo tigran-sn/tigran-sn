@@ -16,8 +16,7 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a **Front-End Developer with 6+ years of experience**, passionate about building **clean, accessible, and scalable applications**.  
-Specialized in **JavaScript, TypeScript, Angular (5–18)** and **React**, I love turning complex ideas into intuitive user experiences.  
+As a Front-end Developer with 6+ years of experience, I specialize in JavaScript, TypeScript, Angular (5– 18), RxJS, React, Jest, and A11y. I am passionate about crafting engaging and innovative user experiences, leveraging technologies like HTML, CSS, and Sass. Committed to continuous learning, I stay updated with industry trends and actively contribute to knowledge-sharing communities. 
 
 ---
 
@@ -40,11 +39,6 @@ Specialized in **JavaScript, TypeScript, Angular (5–18)** and **React**, I lov
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
-
----
-
-## 📌 Featured Projects  
-_(Coming Soon — check back for my pinned repositories!)_
 
 ---
 
