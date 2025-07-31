@@ -1,58 +1,61 @@
-# Tigran Soghomonyan  
-**Front-End Developer | JavaScript | TypeScript | Angular | React**  
+<h1 align="center">Hi, I'm Tigran Soghomonyan 👋</h1>
+<h3 align="center">Front-End Developer | JavaScript | TypeScript | Angular | React</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tigransoghomonyan/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/tigran-sn)  
-
----
-
-## 👋 About Me  
-I am a **Front-End Developer with 6+ years of experience**, specializing in **JavaScript, TypeScript, Angular (5–18)**, and **React**. My focus is on crafting **engaging and accessible user experiences**, leveraging **RxJS, Jest, A11y**, and modern front-end practices.  
-
-I’m passionate about **turning complex problems into clean, user-friendly solutions**, collaborating across teams, and contributing to high-quality, scalable applications.  
-
----
-
-## 🛠️ Skills & Technologies  
-
-- **Frontend:** JavaScript (ES6+), TypeScript, Angular (5–18), React, Redux, NgRx, RxJS, jQuery  
-- **UI/UX:** HTML5, CSS3, Sass, Bootstrap, PrimeNG, Angular Material, Canvas, SVG  
-- **Testing & Tools:** Jest, Jasmine, Git, Docker  
-- **Other:** Accessibility (A11y), REST API Integration, Google Maps & Cloud Services  
+<p align="center">
+  <a href="https://www.linkedin.com/in/tigransoghomonyan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/tigran-sn">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" />
+  </a>
+  <a href="mailto:soghomonyantigran@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## 💼 Professional Experience  
-
-### **Frontend Developer – Multiple Projects** (2025 – Present)  
-- Built and enhanced **enterprise-level Angular applications** across multiple project components.  
-- Developed **reusable UI components** for faster and scalable development.  
-- Integrated **Google Cloud Services** for improved performance and reliability.  
-- Collaborated closely with **backend developers, product managers, and QA teams** to deliver high-quality features.  
-
-### **Freelance Developer** (2021 – 2025)  
-- Designed and implemented **Angular and React applications** from scratch.  
-- Built **payment systems, banking support platforms, and logistics applications** with REST API integrations.  
-- Ensured **code quality through unit testing (Jest)** and peer reviews.  
-
-### **Front-End Developer – Buymie, Volo, Fifth** (2018 – 2024)  
-- Worked on **SOAR, grocery delivery, fintech, and government archiving systems**.  
-- **Refactored legacy codebases** to adopt the latest Angular versions and features.  
-- Developed **fully responsive UIs** with PrimeNG and Angular Material.  
-- Implemented **real-time features** using SignalR and WebSockets.  
-
-_For a detailed breakdown of my roles and projects, check out my [CV](https://github.com/tigran-sn)._  
+## 👨‍💻 About Me
+I'm a **Front-End Developer with 6+ years of experience**, passionate about building **clean, accessible, and scalable applications**.  
+Specialized in **JavaScript, TypeScript, Angular (5–18)** and **React**, I love turning complex ideas into intuitive user experiences.  
 
 ---
 
-## 🎓 Education  
-**Yerevan State University** – Yerevan, Armenia (2012)  
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
-## 🌍 Languages  
-- **English** – Professional working proficiency  
-- **Russian, Armenian, French** – Conversational  
+## 📌 Featured Projects  
+_(Coming Soon — check back for my pinned repositories!)_
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tigran-sn&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tigran-sn&theme=tokyonight" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigran-sn&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
