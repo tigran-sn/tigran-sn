@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tigran Soghomonyan 👋</h1>
+<h1 align="center">Hi, I'm Tigran 👋</h1>
 <h3 align="center">Front-End Developer | JavaScript | TypeScript | Angular | React</h3>
 
 <p align="center">
