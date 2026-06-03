@@ -66,8 +66,8 @@ Senior Frontend Engineer with **7+ years** building accessible, performant web a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tigran-sn&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigran-sn&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-xi-amber-27.vercel.app/api?username=tigran-sn&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Tigran's GitHub stats" height="170" />
+  <img src="https://github-readme-stats-xi-amber-27.vercel.app/api/top-langs/?username=tigran-sn&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="170" />
 </p>
 
 ---
