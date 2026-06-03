@@ -16,18 +16,18 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Senior Frontend Engineer with **7+ years** building accessible, performant web applications in **Angular (5–19), TypeScript, RxJS, and React**. As a **Claude Certified Architect**, I now pair that frontend depth with **AI engineering** — shipping production-shape apps with streaming, tool use, and prompt caching.
 
-- 🔭 Building AI-powered frontends — see [`claude-frontend-demo`](https://github.com/tigran-sn/claude-frontend-demo)
-- 🌍 Based in Yerevan, Armenia — **open to remote roles & relocation**
-- 🌱 Going deeper on agentic AI patterns and the Anthropic stack
-- 💬 Ask me about Angular architecture, RxJS, accessibility (a11y), and LLM app design
+- Building AI-powered frontends — see [`claude-frontend-demo`](https://github.com/tigran-sn/claude-frontend-demo)
+- Based in Yerevan, Armenia — **open to remote roles & relocation**
+- Going deeper on agentic AI patterns and the Anthropic stack
+- Ask me about Angular architecture, RxJS, accessibility (a11y), and LLM app design
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
@@ -39,7 +39,7 @@ Senior Frontend Engineer with **7+ years** building accessible, performant web a
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -63,7 +63,7 @@ Senior Frontend Engineer with **7+ years** building accessible, performant web a
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-xi-amber-27.vercel.app/api?username=tigran-sn&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Tigran's GitHub stats" height="170" />
@@ -72,7 +72,7 @@ Senior Frontend Engineer with **7+ years** building accessible, performant web a
 
 ---
 
-## 📫 Let's Connect
+## Connect
 
 - **LinkedIn:** [linkedin.com/in/tigransoghomonyan](https://www.linkedin.com/in/tigransoghomonyan/)
 - **Email:** soghomonyantigran@gmail.com
