@@ -11,6 +11,9 @@
   <a href="mailto:soghomonyantigran@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://verify.skilljar.com/c/d5n5xxcyvc2g">
+    <img src="https://img.shields.io/badge/Claude%20Certified-Architect-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Relocation-2EA043?style=flat-square" />
 </p>
 
@@ -18,7 +21,7 @@
 
 ## About Me
 
-Senior Frontend Engineer with **7+ years** building accessible, performant web applications in **Angular (5–19), TypeScript, RxJS, and React**. As a **Claude Certified Architect**, I now pair that frontend depth with **AI engineering** — shipping production-shape apps with streaming, tool use, and prompt caching.
+Senior Frontend Engineer with **7+ years** building accessible, performant web applications in **Angular (5–19), TypeScript, RxJS, and React**. As a [**Claude Certified Architect**](https://verify.skilljar.com/c/d5n5xxcyvc2g), I now pair that frontend depth with **AI engineering** — shipping production-shape apps with streaming, tool use, and prompt caching.
 
 - Building AI-powered frontends — see [`claude-frontend-demo`](https://github.com/tigran-sn/claude-frontend-demo)
 - Based in Yerevan, Armenia — **open to remote roles & relocation**
